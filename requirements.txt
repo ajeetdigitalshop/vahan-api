@@ -1,8 +1,4 @@
 Flask
-pytesseract
-opencv-python-headless
 requests
-pillow
 beautifulsoup4
-numpy
 gunicorn
